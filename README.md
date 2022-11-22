@@ -1,4 +1,4 @@
 # Criando-Playlist
 Estudo python para entender class e suas heranças. Seguindo o curso "Python: avançando na orientação a objetos".
 
-Video tutorial explicando -> https://youtu.be/SJpMfT6SA8k
+Tutorial -> https://youtu.be/SJpMfT6SA8k
